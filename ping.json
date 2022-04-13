@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Faze",
-            "ip": "194.61.3.167",
-            "port": 11661,
+            "name": "",
+            "ip": "185.112.81.72",
+            "port": 7867,
             "online": 0,
             "maxplayers": 120,
             "password": false,
